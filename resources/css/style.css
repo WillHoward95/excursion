@@ -1,0 +1,38 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+a {
+  color: aquamarine;
+  font: 16px;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
+  font-weight: 500;
+}
+
+h4 {
+  text-align: right;
+  color: gray;
+}
